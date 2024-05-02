@@ -1,0 +1,12 @@
+/* Add your styles here */
+.search-container {
+    margin-bottom: 20px;
+}
+
+#job-list {
+    margin-bottom: 20px;
+}
+
+#job-description {
+    display: none;
+}
